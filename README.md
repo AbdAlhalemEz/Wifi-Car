@@ -11,7 +11,7 @@ This Arduino project allows you to control an RC car using your smartphone. The 
 - **OUT3 (L298N Out3 Motors Left):** Connect to GPIO2 (D4)
 - **OUT4 (L298N Out4 Motors Left):** Connect to GPIO0 (D3)
 
-![Alt Text]([url](https://github.com/AbdAlhalemEz/Wifi-Car/blob/main/Wifi-controlled-car.jpg))
+![Connection Map]([https://github.com/AbdAlhalemEz/Wifi-Car/blob/main/Wifi-controlled-car.jpg])
 
 
 ## Required App
